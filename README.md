@@ -1,3 +1,2 @@
-# Cwj的个人主页
-
-## 了解更多，前往[我的主页](https://cwj-imake.github.io/)
+# [Cwj的个人网站](https://cwj-imake.github.io/)
+进入我的个人网站了解更多
